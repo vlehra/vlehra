@@ -1,16 +1,33 @@
-## Hi there 👋
+## 👋 Hi, I'm Vaibhav Lehra
 
-<!--
-**vlehra/vlehra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 I’m currently working on
+- Building **scalable backend systems** using **FastAPI / Django**
+- Designing **high-throughput architectures** for **EdTech platforms**
+- Handling **DevOps & cloud optimization** (Docker, Kubernetes, AWS cost reduction)
 
-Here are some ideas to get you started:
+### 👯 I’m looking to collaborate on
+- **Backend-heavy products** (APIs, microservices, system design)
+- **EdTech / SaaS platforms**
+- **Open-source projects** around **Python, FastAPI, and infrastructure tooling**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 I’m looking for help with
+- **Large-scale system design** (millions of users, high concurrency)
+- **Video storage & streaming architecture** at scale
+- **Cost-optimized cloud infrastructure** (self-managed setups)
+
+### 🌱 I’m currently learning
+- **Advanced system design**
+- **Distributed systems**
+- **Cloud cost optimization & infrastructure automation**
+- **Scalable database patterns** (PostgreSQL, Redis, queues)
+
+### 💬 Ask me about
+- **FastAPI / Django**
+- **Backend architecture & APIs**
+- **AWS, Docker, Kubernetes, CI/CD**
+- **Database design & performance**
+- **Taking products from idea → production**
+
+### ⚡ Fun fact
+- I don’t just write code — I **design, deploy, scale, monitor, and optimize** systems end-to-end 🚀  
+- I’ve handled **DevOps responsibilities in every company** I’ve worked with.
